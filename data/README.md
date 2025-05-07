@@ -1,6 +1,6 @@
 # 청소년 유해환경 실태조사 원본 데이터 링크
 
-원본 파일 용량 문제로 링크로 대체
+원본 파일 용량 제한으로 인해 링크로 대체
 
 [구글 드라이브 원본 데이터 폴더 열기](https://drive.google.com/drive/folders/1lq4osaDAXS_VIh9Y3nDp7tcj7p5SGrAj?usp=drive_link)
 
