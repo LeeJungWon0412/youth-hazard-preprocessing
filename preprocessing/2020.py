@@ -27,7 +27,7 @@ region_map = {
 df = df[df["DM7"].isin(region_map.keys())].copy()
 df["DM7"] = df["DM7"].astype(int)
 
-# 특정 카테고리 응답 수 세는 함수
+# 특정 종목 응답자 수 세는 함수
 def count_yes(df_region, codes):
     if codes[0] == "YM21":
         return df_region[codes[0]].isin([2, 3, 4, 5]).sum()
