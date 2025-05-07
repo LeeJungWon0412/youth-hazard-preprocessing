@@ -24,4 +24,4 @@
 - 성인물, 도박, 폭력, 성폭력, 가출, 음주, 흡연, 약물, 유해업소
 
 ### 원본 데이터
-- 원본 데이터 파일은 용랑 제한으로 인해 [구글 드라이브 링크](https://drive.google.com/drive/folders/11q4osaDAXS_VIh9Y3nDp7tcj7p5SGrAj?usp=drive_link)를 통해 제공
+- 원본 데이터 파일은 용랑 제한으로 인해 [구글 드라이브 링크](https://drive.google.com/drive/folders/1lq4osaDAXS_VIh9Y3nDp7tcj7p5SGrAj?usp=drive_link)를 통해 제공
